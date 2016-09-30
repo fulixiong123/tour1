@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link type="text/css" href="../css/login.css" rel="stylesheet" />
+<title>后台管理系统_用户登录</title>
+</head>
+<style type="text/css">
+
+</style>
+<body>
+<div id="main">
+<div id="main_body">
+<div class="middle_word">
+<table width="240" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="20%" height="25"><div align="right"><span class="STYLE1">用户</span></div></td>
+                <td width="47%" height="25"><div align="center">
+                  <input type="text" name="textfield" class="in_text"/>
+                </div></td>
+                <td width="37%" height="25"></td>
+              </tr>
+              <tr>
+                <td height="25"><div align="right"><span class="STYLE1">密码</span></div></td>
+                <td height="25"><div align="center">
+                  <input type="password" name="textfield2" class="in_text"/>
+                </div></td>
+                <td height="25"><div align="left"><a href="main.html"><img src="../images/dl.gif" width="49" height="18" border="0"></a></div></td>
+              </tr>
+              
+               <tr>
+                <td height="25" ><div align="right"><span class="STYLE1">验证</span></div></td>
+                <td height="25"><div align="center">
+                  <input type="password" name="textfield2" class="in_text"/>
+                </div></td>
+                <td height="25"><div align="left"><img src="../images/codeBg.jpg" width="78" height="28" border="0"></div></td>
+              </tr>
+            </table>
+<div class="p_label"><label></label></div>
+</div>
+</div>
+</div>
+</body>
+</html>
